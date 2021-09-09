@@ -1,10 +1,13 @@
 # LP2-FATEC
+Banco de Dados
 
-# BANCO DE DADOS
+# ALUNA
+Beatriz Medeiros de Oliveira Santos
 
-# Beatriz Medeiros de Oliveira Santos
+# Pesquisa: 
+//autopapo.uol.com.br/noticia/carros-do-filme-carros-disney-pixar/
 
-# pesquisa feita no site: 
-https://autopapo.uol.com.br/noticia/carros-do-filme-carros-disney-pixar/
-# outras informações não encontradas no site são meramente fictícias 
+Outras informações não encontradas no site são meramente fictícias! 
+
+![Obrigada pela Atenção!](https://i.pinimg.com/originals/62/82/62/628262104fff08dd6a491e66444fb9be.jpg)
 
