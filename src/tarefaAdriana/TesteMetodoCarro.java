@@ -1,6 +1,6 @@
 package tarefaAdriana;
 
-public class MetodoCarro {
+public class TesteMetodoCarro {
 
 	public static void main(String[] args) {
 
